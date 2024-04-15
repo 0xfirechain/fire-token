@@ -1,0 +1,12 @@
+{
+  "name": "fire-token",
+  "version": "1.0.0",
+  "description": "Multi chain Fire Token smart contract",
+  "main": "index.js",
+  "repository": "https://gitlab.com/Donaswap/fire-token.git",
+  "author": "Kryptstein",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  }
+}
